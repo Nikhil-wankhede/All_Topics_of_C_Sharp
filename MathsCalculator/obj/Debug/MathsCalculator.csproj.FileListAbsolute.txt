@@ -1,0 +1,6 @@
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\MathsCalculator\bin\Debug\MathsCalculator.dll
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\MathsCalculator\bin\Debug\MathsCalculator.pdb
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\MathsCalculator\obj\Debug\MathsCalculator.csproj.AssemblyReference.cache
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\MathsCalculator\obj\Debug\MathsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\MathsCalculator\obj\Debug\MathsCalculator.dll
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\MathsCalculator\obj\Debug\MathsCalculator.pdb

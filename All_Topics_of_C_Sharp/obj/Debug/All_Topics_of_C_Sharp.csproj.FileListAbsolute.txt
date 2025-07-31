@@ -1,0 +1,24 @@
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\All_Topics_of_C_Sharp.exe.config
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\All_Topics_of_C_Sharp.exe
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\All_Topics_of_C_Sharp.pdb
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\obj\Debug\All_Topics_of_C_Sharp.csproj.AssemblyReference.cache
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\obj\Debug\All_Topics_of_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\obj\Debug\All_Topics_of_C_Sharp.exe
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\obj\Debug\All_Topics_of_C_Sharp.pdb
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\MathsCalculator.dll
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\MathsCalculator.pdb
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\obj\Debug\All_Topics_of_C_Sharp.csproj.CopyComplete
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\IndependentProject.dll
+C:\Users\Nikhil Wankhede\Desktop\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\IndependentProject.pdb
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\All_Topics_of_C_Sharp.exe.config
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\All_Topics_of_C_Sharp.exe
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\All_Topics_of_C_Sharp.pdb
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\IndependentProject.dll
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\MathsCalculator.dll
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\MathsCalculator.pdb
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\bin\Debug\IndependentProject.pdb
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\obj\Debug\All_Topics_of_C_Sharp.csproj.AssemblyReference.cache
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\obj\Debug\All_Topics_of_C_Sharp.csproj.CoreCompileInputs.cache
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\obj\Debug\All_Topi.6941DB11.Up2Date
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\obj\Debug\All_Topics_of_C_Sharp.exe
+D:\Aarohiinfo IF Management IT Role\Practicles\All_Topics_of_C_Sharp\All_Topics_of_C_Sharp\obj\Debug\All_Topics_of_C_Sharp.pdb
